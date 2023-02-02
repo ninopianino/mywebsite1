@@ -1,0 +1,28 @@
+/* selector{
+    property : value
+} */
+
+p{
+    color: #CA0547;
+}
+h1{
+    color: hotpink;
+}
+article{
+    color: #3F091B ;
+}
+h2{
+    color: #521064 ;
+}
+
+
+header, {
+    background-color:#eaeaea ;
+}
+
+footer{
+    background-color: #521064;
+}
+footer{
+    color: beige;
+}
